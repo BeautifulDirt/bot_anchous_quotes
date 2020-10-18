@@ -1,6 +1,9 @@
 #!/usr/bin/env python
 # --coding:utf-8--
 
+# bySnopkovaAlla
+# my profile on github: https://github.com/BeautifulDirt/
+
 import vk_api
 from vk_api.bot_longpoll import VkBotLongPoll, VkBotEventType
 import time
