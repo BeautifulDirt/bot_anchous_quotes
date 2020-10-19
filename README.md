@@ -4,4 +4,4 @@
 
 Моя группа в ВК: [2C Studio](https://vk.com/2cstudio)
 
-<img src="https://github.com/BeautifulDirt/bot_anchous_quotes/blob/main/image.jpg" data-canonical-src="https://github.com/BeautifulDirt/bot_anchous_quotes/blob/main/image.jpg" width="540" height="750" />  <img src="https://github.com/BeautifulDirt/bot_anchous_quotes/blob/main/image_example.jpg" data-canonical-src="https://github.com/BeautifulDirt/bot_anchous_quotes/blob/main/image_example.jpg" width="380" height="750" />
+<img src="https://github.com/BeautifulDirt/bot_anchous_quotes/blob/main/image.jpg" data-canonical-src="https://github.com/BeautifulDirt/bot_anchous_quotes/blob/main/image.jpg" width="440" height="650" />  <img src="https://github.com/BeautifulDirt/bot_anchous_quotes/blob/main/image_example.jpg" data-canonical-src="https://github.com/BeautifulDirt/bot_anchous_quotes/blob/main/image_example.jpg" width="380" height="750" />
