@@ -1,6 +1,6 @@
-<img src="https://github.com/BeautifulDirt/bot_anchous_quotes/blob/main/image.jpg" data-canonical-src="https://github.com/BeautifulDirt/bot_anchous_quotes/blob/main/image.jpg" width="640" height="320" />
-
 # Бот для бесед ВК *"Цитаты Аньчоуса"* :cat:
+
+<img src="https://github.com/BeautifulDirt/bot_anchous_quotes/blob/main/image.jpg" data-canonical-src="https://github.com/BeautifulDirt/bot_anchous_quotes/blob/main/image.jpg" width="640" height="320" />
 
 :star: Взял? Поставь звезду!
 
