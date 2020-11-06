@@ -6,4 +6,5 @@
 
 :speech_balloon: Моя группа в ВК: [2C Studio](https://vk.com/2cstudio)
 
-<img src="https://github.com/BeautifulDirt/bot_anchous_quotes/blob/main/image.jpg" data-canonical-src="https://github.com/BeautifulDirt/bot_anchous_quotes/blob/main/image.jpg" width="640" height="320" />  <img src="https://github.com/BeautifulDirt/bot_anchous_quotes/blob/main/image_example.jpg" data-canonical-src="https://github.com/BeautifulDirt/bot_anchous_quotes/blob/main/image_example.jpg" width="340" height="650" />
+<img src="https://github.com/BeautifulDirt/bot_anchous_quotes/blob/main/image.jpg" data-canonical-src="https://github.com/BeautifulDirt/bot_anchous_quotes/blob/main/image.jpg" width="640" height="320" />
+<img src="https://github.com/BeautifulDirt/bot_anchous_quotes/blob/main/image_example.jpg" data-canonical-src="https://github.com/BeautifulDirt/bot_anchous_quotes/blob/main/image_example.jpg" width="340" height="650" />
