@@ -8,4 +8,4 @@
 
 <img src="https://github.com/BeautifulDirt/bot_anchous_quotes/blob/main/footer.jpg" data-canonical-src="https://github.com/BeautifulDirt/bot_anchous_quotes/blob/main/footer.jpg" width="640" height="320" />
 
-:calendar: *Январь, 2019*
+:calendar: *Январь, 2020*
